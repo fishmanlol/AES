@@ -48,3 +48,13 @@ class AESHandler {
 //* Key: aitmed.com123456
 //* Padding: PKCS7
 //* Mode: ECB
+//
+//##JSON
+//
+//* Key1: jwt
+//* Key2: tvt
+//
+//##Example
+//
+//* origin json: {"jwt":123,"tvt":456}
+//* encrypted: MJnkQPppMMl5wjGMwrhl6sPTUVbyp1Rw3V+kXlHepcQ=
